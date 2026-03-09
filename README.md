@@ -22,21 +22,21 @@ CSV Data → Fabric Data Pipeline → Lakehouse Bronze → Transformation → Si
 
 ## Architecture
 
-Bronze Layer
+Bronze Layer:
    bronze_orders
    bronze_products
    bronze_customers
 
         ↓
 
-Silver Layer
+Silver Layer:
    silver_orders_vw
    silver_products_vw
    silver_customers_vw
 
         ↓
 
-Gold Layer
+Gold Layer:
    dim_products
    dim_customers
    fact_sales
