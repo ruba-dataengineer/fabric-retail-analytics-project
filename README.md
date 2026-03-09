@@ -21,5 +21,5 @@ CSV Data → Fabric Data Pipeline → Lakehouse Bronze → Transformation → Si
 5. Build Power BI dashboard
 
 ## Architecture
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/23af3a41-f932-4af4-8bc8-55f706cd3734" />
+<img width="1536" height="1024" alt="ChatGPT Image Mar 9, 2026, 05_52_06 PM" src="https://github.com/user-attachments/assets/3ea8ed7f-b335-4309-8317-a6ce8bed2252" />
 
