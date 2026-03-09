@@ -21,27 +21,5 @@ CSV Data → Fabric Data Pipeline → Lakehouse Bronze → Transformation → Si
 5. Build Power BI dashboard
 
 ## Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/23af3a41-f932-4af4-8bc8-55f706cd3734" />
 
-Bronze Layer:
-   bronze_orders
-   bronze_products
-   bronze_customers
-
-        ↓
-
-Silver Layer:
-   silver_orders_vw
-   silver_products_vw
-   silver_customers_vw
-
-        ↓
-
-Gold Layer:
-   dim_products
-   dim_customers
-   fact_sales
-
-        ↓
-
-Dashboard
-   Power BI
